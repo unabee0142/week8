@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "y",
+      "LastName": "u",
+      "email": "mannot0142@gmail.com",
+      "Telephone": "0830563598",
+      "Salary": "20000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
